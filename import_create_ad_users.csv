@@ -1,0 +1,6 @@
+Implement,EmployeeID,GivenName,LastName,Initials,Mail,Description,OfficeName,Company,Department,Phone,Manager,HomeDrive,PasswordNeverExpires,Enabled,TargetOU
+No,111111,Joe,Blow, ,your@email.com,Developer for Project X,Norfolk,BAH,Systems Development,7573373125,Bill Hall ,H:,FALSE,TRUE,"OU=Normal CDF2 Users,OU=CDF2 Users"
+yes,576143,Christopher,Lewis,,Lewis_Christopher@bah.com,Sharepoint 2010 RemoteAppUser,Norfolk,BAH,,757-893-6364,Bill Hall ,H:,FALSE,TRUE,"OU=Normal CDF2 Users,OU=CDF2 Users"
+yes,583911,Chris,Hott,, Hott_Chris@bah.com,Sharepoint 2010 RemoteAppUser,Norfolk,BAH,,757-892-6447,Bill Hall ,H:,FALSE,TRUE,"OU=Normal CDF2 Users,OU=CDF2 Users"
+yes,537118,Benjamin ,Davis,,davis_benjamin@bah.com,Sharepoint 2010 RemoteAppUser,Norfolk,BAH,,703-307-0512,Bill Hall ,H:,FALSE,TRUE,"OU=Normal CDF2 Users,OU=CDF2 Users"
+yes,571980,Samuel,Landry,,Landry_Samuel@bah.com,Sharepoint 2010 RemoteAppUser,Norfolk,BAH,,7574696191,Bill Hall ,H:,FALSE,TRUE,"OU=Normal CDF2 Users,OU=CDF2 Users"
